@@ -20,11 +20,11 @@
 #     total_price += price
 # print(total_price)
 
-
-numbers = [2, 2, 2, 8]
-
-for x in numbers:
-    out = ''
-    for y in range(x):
-        out += 'x'
-    print(out)
+#
+# numbers = [2, 2, 2, 8]
+#
+# for x in numbers:
+#     out = ''
+#     for y in range(x):
+#         out += 'x'
+#     print(out)
